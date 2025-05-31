@@ -270,6 +270,25 @@ img {
   padding: 32px 0;
 }
 
+.socials-list{
+
+}
+
+.socials-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 24px;
+  background-color: #4d5ae5;
+}
+
+.icon{
+
+
+}
+
+
 .team-item {
   background-color: #ffffff;
   border-radius: 0px 0px 4px 4px;
