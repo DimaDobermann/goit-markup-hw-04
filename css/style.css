@@ -244,26 +244,16 @@ img {
   margin-bottom: 8px;
 }
 
-
-
-
-
-
-
-
 .our-team {
   background-color: #f4f4fd;
   padding: 120px 0;
-  box-shadow:
-    0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16),
-    0px 2px 1px rgba(46, 47, 66, 0.08);
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 
   border-radius: 0px 0px 4px 4px;
-    text-align: center;
+  text-align: center;
 }
-.team-content{
-
+.team-content {
 }
 .team {
   font-weight: 700;
@@ -280,7 +270,6 @@ img {
 .team-list {
   display: flex;
   gap: 24px;
-  
 }
 
 .team-subtitle-text {
@@ -302,7 +291,7 @@ img {
 }
 
 .socials-svg {
-  fill:  #f4f4fd;
+  fill: #f4f4fd;
 }
 
 .socials-link {
@@ -314,26 +303,16 @@ img {
   align-items: center;
   justify-content: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  
 }
 .socials-link:hover,
 .socials-link:focus {
   background-color: #404bbf;
 }
 
-
-
-
-
-
-
-
-
 .team-item {
   background-color: #ffffff;
   border-radius: 0px 0px 4px 4px;
   width: calc((100% - 72px) / 4);
-
 }
 
 .team-subtitle {
@@ -355,13 +334,6 @@ img {
   text-align: center;
   background-color: #ffffff;
 }
-
-
-
-
-
-
-
 
 .project-card {
   background-color: #fff;
@@ -413,23 +385,6 @@ img {
   text-align: left;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .footer {
   background: #2e2f42;
   padding: 100px 0;
@@ -463,9 +418,8 @@ img {
   max-width: 264px;
 }
 
-.footer-social-list{
+.footer-social-list {
   display: flex;
-  
 }
 
 .footer-social-title {
