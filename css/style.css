@@ -389,6 +389,13 @@ img {
   background: #2e2f42;
   padding: 100px 0;
 }
+
+.footer-container {
+  display: flex;
+
+  align-items: baseline;
+}
+
 .footer-logo {
   font-weight: 700;
   font-size: 18px;
@@ -416,6 +423,9 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
+}
+.footer-logo-box {
+  margin-right: 120px;
 }
 
 .footer-social-box {
