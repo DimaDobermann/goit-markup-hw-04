@@ -244,6 +244,13 @@ img {
   margin-bottom: 8px;
 }
 
+
+
+
+
+
+
+
 .our-team {
   background-color: #f4f4fd;
   padding: 120px 0;
@@ -251,10 +258,13 @@ img {
     0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16),
     0px 2px 1px rgba(46, 47, 66, 0.08);
+
   border-radius: 0px 0px 4px 4px;
     text-align: center;
 }
+.team-content{
 
+}
 .team {
   font-weight: 700;
   font-size: 36px;
@@ -270,12 +280,12 @@ img {
 .team-list {
   display: flex;
   gap: 24px;
+  
 }
 
 .team-subtitle-text {
   padding: 32px 0;
 }
-
 
 .socials-list {
   display: flex;
@@ -312,12 +322,20 @@ img {
 }
 
 
+
+
+
+
+
+
+
 .team-item {
   background-color: #ffffff;
   border-radius: 0px 0px 4px 4px;
   width: calc((100% - 72px) / 4);
-  
+
 }
+
 .team-subtitle {
   font-weight: 500;
   text-align: center;
@@ -337,6 +355,13 @@ img {
   text-align: center;
   background-color: #ffffff;
 }
+
+
+
+
+
+
+
 
 .project-card {
   background-color: #fff;
